@@ -2,5 +2,5 @@
 layout: slide
 title: "Welcome to our second slide!"
 ---
-Your text
+Tak jsem to konečně našel
 Use the left arrow to go back!
